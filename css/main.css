@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:#f9eeff;
+    font-family: "WorkSans", Arial, Helvetica, sans-serif;
+}
+
+.background_img{
+    height: 250px;
+    background-image:url(../img/background-pattern-desktop.svg);
+}
