@@ -101,7 +101,8 @@ li{
 /********************************************************/
 /*Responsive*/
 
-@media screen and (max-width:380px) {
+
+@media screen and (max-width:381px) {
    .wrapper {
     width: 90%;
     margin: 160px auto; 
