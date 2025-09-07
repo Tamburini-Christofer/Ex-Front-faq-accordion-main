@@ -31,7 +31,6 @@ hr{
 
 main{
     position: relative;
-    height: 800px;
 }
 
 /*Regole Hover*/
@@ -62,7 +61,8 @@ img,
 .background_img{ 
     position: absolute;
     top: 0%;
-    height: 300px;
+    height: 200px;
+    width: 100%;
     background-image:url(../img/background-pattern-desktop.svg);
     background-size: cover;
 }
@@ -94,7 +94,8 @@ li{
     background-color: white;
     border-radius: 10px;
     padding: 30px;
-    margin: 190px 32vw;
+    margin: 16vh auto;
+    width: 500px;
 }
 
 /********************************************************/
